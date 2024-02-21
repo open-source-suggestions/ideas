@@ -2,6 +2,3 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Open source project ideas'
 theme = 'skeleton'
-
-[[menus.ideas]]
-    pageRef = '/content/ideas'
