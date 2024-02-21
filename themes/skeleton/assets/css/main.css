@@ -3,12 +3,14 @@ body {
   font-family: sans-serif;
   line-height: 1.5;
   margin: 1rem;
-  max-width: 768px;
 }
 
 header {
-  border-bottom: 1px solid #222;
-  margin-bottom: 1rem;
+  display: flex;
+  width: 100%;
+  background-color: rgb(216, 216, 223);
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 footer {
