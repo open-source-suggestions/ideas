@@ -1,7 +1,9 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ $result := where site.RegularPages "Type" "!=" "proposing" }}
+  {{ $result := where site.RegularPages "Type" "!=" "exclude" }}
   {{range $result}}
+    <div class="box">
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    </div>
   {{end}}
 {{ end }}

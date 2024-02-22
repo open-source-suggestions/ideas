@@ -9,5 +9,13 @@ title = 'Open source project ideas'
 
 
 [[menus.main]]
-name = 'How to contribute'
+name = 'proposing your idea'
 pageRef = '/proposing'
+
+[[menus.main]]
+name = 'home'
+pageRef = '/'
+
+[[menus.main]]
+name = 'contribute to the source code'
+pageRef = '/contribute'
