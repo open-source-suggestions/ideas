@@ -24,8 +24,8 @@ date = date_of_your_post_with_format_YYYY-MM-DD
 ```
 step 6: go to pull request 
 
-![pr](/pr.png)
+![pr](../pr.png)
 
 step 7: click `New pull request` button
 
-![prbt](/pr_button.png)
+![prbt](../pr_button.png)
