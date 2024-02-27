@@ -1,4 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Open source project ideas'
-theme = 'skeleton'
+theme = 'PaperMod'
+
+[params]
+disableSpecial1stPost = true
