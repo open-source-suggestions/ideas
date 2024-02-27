@@ -5,3 +5,9 @@ theme = 'PaperMod'
 
 [params]
 disableSpecial1stPost = true
+
+[[menu.main]]
+identifier= "proposing"
+name= "proposing ideas"
+url= "/proposing"
+weight= 30
