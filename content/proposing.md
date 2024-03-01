@@ -22,10 +22,5 @@ title = 'title_of_your_post'
 date = date_of_your_post_with_format_YYYY-MM-DD
 +++
 ```
-step 6: go to pull request 
 
-![pr](../pr.png)
-
-step 7: click `New pull request` button
-
-![prbt](../pr_button.png)
+step 6: Create a [Pull request](https://github.com/opensourceideas/ideas/compare)
