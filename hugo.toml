@@ -5,6 +5,14 @@ theme = 'PaperMod'
 
 [params]
 disableSpecial1stPost = true
+[params.profileMode]
+enabled = true
+[[params.socialIcons]]
+name = 'github'
+url = 'https://github.com/opensourceideas/ideas.git'
+[params.profileMode.buttons]
+buttons.name = 'proposing ideas'
+buttons.url = '/proposing'
 
 [[menu.main]]
 identifier= "proposing"
