@@ -1,13 +1,15 @@
-# ideas
+# open source ideas
 
-# Warning: This project is not ready for now
+Open source ideas is a website used to add your open source project ideas to give a project idea for people who don't have one.
 
-## Introduction
+It uses hugo with [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod.git) theme.
 
-This project is a website used to add your open source project ideas to give a project to people that don't have one.
+Why hugo? Because it's easier to add pages with markdown than html.
 
-It uses hugo to add pages in markdown instead of plain html to be easier to add content
+## How to contribute
 
-## How to propose an idea
+Follow the guide [proposing an idea](https://opensourceideas.github.io/ideas/proposing/) or if you don't want to write markdown you can still add an issue.
 
-Please create a pull request with a markdown under `content/ideas` path
+## License
+
+Licensed under the [GPL-2.0](LICENSE) license
