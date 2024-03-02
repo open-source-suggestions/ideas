@@ -1,6 +1,6 @@
-# open source ideas
+# open source suggestions
 
-Open source ideas is a website used to add your open source project ideas to give a project idea for people who don't have one.
+Open source suggestions is a website used to add your open source project ideas to give a project idea for people who don't have one.
 
 It uses hugo with [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod.git) theme.
 
