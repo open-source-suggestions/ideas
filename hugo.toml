@@ -5,8 +5,11 @@ theme = 'PaperMod'
 
 [params]
 disableSpecial1stPost = true
+author = 'luc-git'
+description = 'Welcome to the website made for sharing your open source ideas'
 [params.profileMode]
 enabled = true
+subtitle = 'Welcome to the website made for sharing your open source ideas.'
 [[params.socialIcons]]
 name = 'github'
 url = 'https://github.com/open-source-suggestions/ideas.git'
@@ -14,7 +17,7 @@ url = 'https://github.com/open-source-suggestions/ideas.git'
 name = 'ideas'
 url = './ideas'
 [[params.profileMode.buttons]]
-name = 'proposing ideas'
+name = 'ideas proposal guide'
 url = './proposing'
 
 [[menu.main]]
