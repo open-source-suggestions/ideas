@@ -9,10 +9,13 @@ disableSpecial1stPost = true
 enabled = true
 [[params.socialIcons]]
 name = 'github'
-url = 'https://github.com/opensourceideas/ideas.git'
-[params.profileMode.buttons]
-buttons.name = 'proposing ideas'
-buttons.url = './proposing'
+url = 'https://github.com/open-source-suggestions/ideas.git'
+[[params.profileMode.buttons]]
+name = 'ideas'
+url = './ideas'
+[[params.profileMode.buttons]]
+name = 'proposing ideas'
+url = './proposing'
 
 [[menu.main]]
 identifier= "proposing"
