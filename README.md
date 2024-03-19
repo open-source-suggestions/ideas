@@ -8,7 +8,7 @@ Why hugo? Because it's easier to add pages with markdown than html.
 
 ## How to contribute
 
-Follow the guide [proposing an idea](https://opensourceideas.github.io/ideas/proposing/) or if you don't want to write markdown you can still add an issue.
+Follow the guide [proposing an idea](https://open-source-suggestions.github.io/ideas/proposing/) or if you don't want to write markdown you can still add an issue.
 
 ## License
 
