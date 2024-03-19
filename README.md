@@ -2,7 +2,7 @@
 
 I don't have any open source project idea to make.
 
-Then Open source suggestions is made for you.
+Then [Open source suggestions](https://open-source-suggestions.github.io/ideas/) is made for you.
 
 ## What is Open source suggestions ?
 
